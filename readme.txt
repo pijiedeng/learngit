@@ -1,2 +1,1 @@
-s is my learngit demo
-
+this is my first git learn text 
